@@ -1,0 +1,2 @@
+# Smart-Parking-Violation-Classifier-using-Fuzzy-Logic
+This parking system uses fuzzy logic to regulate visitor parking during peak hours, ensuring space availability when needed most. By analyzing light levels (LDR) and distance, it detects unauthorized vehicles and alerts security in real time. This smart approach enhances urban parking management, reducing congestion and improving accessibility. 
